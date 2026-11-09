@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mahendraptr.twa",
+        "sha256_cert_fingerprints": ["F2:E9:CF:41:B3:4F:02:47:F2:29:01:11:02:80:DD:FD:FE:AE:37:9D:C0:1F:70:3C:09:09:5D:1E:EE:3B:6D:08"]
+      }
+    }]
