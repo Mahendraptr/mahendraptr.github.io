@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mahendraptr.twa",
-        "sha256_cert_fingerprints": ["F2:E9:CF:41:B3:4F:02:47:F2:29:01:11:02:80:DD:FD:FE:AE:37:9D:C0:1F:70:3C:09:09:5D:1E:EE:3B:6D:08"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mahendraptr.gamelog",
+    "sha256_cert_fingerprints": ["3D:04:D4:0D:02:A8:F6:E1:5D:FC:9B:AC:BD:7C:FF:03:4A:16:28:7D:5B:9B:CB:DD:42:F7:A3:30:17:80:C1:47"]
+  }
+}]
