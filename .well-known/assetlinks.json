@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.mahendraptr.twa",
-        "sha256_cert_fingerprints": ["3D:04:D4:0D:02:A8:F6:E1:5D:FC:9B:AC:BD:7C:FF:03:4A:16:28:7D:5B:9B:CB:DD:42:F7:A3:BB:DF:A7:AD:12"]
+        "sha256_cert_fingerprints": ["34:DD:E7:0E:90:63:5E:93:D0:2D:91:B5:52:91:9D:DD:BF:C3:EE:41:76:C0:BD:A1:E3:DA:9E:37:39:49:28:EA"]
       }
     }]
